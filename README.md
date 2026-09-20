@@ -14,4 +14,3 @@ I design and code systems and experiences that let large orgs ship consistent, a
 
 - [Selected work](https://chabassol.com/): case studies with the pictures and stories.
 - [Resume](https://chabassol.com/resume): where I've worked and what I did there.
-- [Manny Magnifier](https://github.com/SteveChab/manny-magnifier): a web app that turns your phone into a handheld magnifier, built for low vision. The code is public.
