@@ -1,8 +1,4 @@
-# Steve here.
-
-I design and code systems and experiences that let large orgs ship consistent, accessible work at speed. 20+ years writing HTML, CSS, and JavaScript.
-
-## Highlights
+# I design and code systems and experiences that let large orgs ship beautiful, consistent, accessible work. 20+ years writing HTML, CSS, and JavaScript.
 
 - **Accessibility standards.** Wrote Carnegie Mellon's web accessibility standards, still published on the university's site.
 - **Design system.** Designed the templates and authoring systems used by ~250 university sites and helped shape the brand.
